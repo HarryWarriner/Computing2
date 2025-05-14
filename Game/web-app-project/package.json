@@ -1,0 +1,19 @@
+{
+  "name": "web-app-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ramda": "^0.30.1"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.4",
+    "mocha": "^11.2.2"
+  }
+}
